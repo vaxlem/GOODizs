@@ -36,6 +36,15 @@ body{
   top: 10rem
 
 }
+.xx{
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    width:10rem;
+    height: 10rem;
+    position: fixed;
+    z-index: -2;
+  }
 
 .y{
   position: absolute;
@@ -190,10 +199,3 @@ body{
         }
     
  
-          
-            
-          
-           
-          
-            
-            
