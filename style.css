@@ -206,13 +206,14 @@ body{
  
   }
   /* .fancy {} */
-  .xx{
+  .xx, .goodizsLogo{
       position: absolute;
       left: 1rem;
-      top: 0.5rem;
+      top: 0.1rem;
       width:3rem;
       height: 2rem;
       padding: 1rem;
+      margin-bottom: 2rem;
       position: fixed;
       z-index: -2;
     }
