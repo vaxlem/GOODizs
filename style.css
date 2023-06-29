@@ -198,4 +198,28 @@ body{
           }
         }
     
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  body {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14px;
  
+  }
+  /* .fancy {} */
+  .xx{
+      position: absolute;
+      left: 1rem;
+      top: 0.5rem;
+      width:3rem;
+      height: 2rem;
+      padding: 1rem;
+      position: fixed;
+      z-index: -2;
+    }
+  .goodizsLogo{width: 3rem;
+
+  }
+  
+  }
+
+
